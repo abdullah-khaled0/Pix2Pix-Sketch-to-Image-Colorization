@@ -1,6 +1,6 @@
 # Pix2Pix: Sketch to Image Colorization
 
-![Pix2Pix Example](generated_image.png)
+![Pix2Pix Example](sample_images.png)
 
 ## Overview
 This project implements a **Pix2Pix Generative Adversarial Network (GAN)** to convert black-and-white sketches into fully colored images. It is based on the U-Net architecture for the generator and PatchGAN for the discriminator.
@@ -61,9 +61,9 @@ python train.py
 ## Results
 Example of sketch-to-image colorization:
 
-| Sketch | Generated Image |
-|--------|----------------|
-| ![sample_images](sample_images.png) |
+| Sketch - Generated Image
+|--------|
+| ![sample_images](generated_image.png)
 
 ## Acknowledgments
 - **Pix2Pix Paper**: [Isola et al., 2017](https://arxiv.org/abs/1611.07004)
