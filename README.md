@@ -67,7 +67,7 @@ Example of sketch-to-image colorization:
 
 ## Acknowledgments
 - **Pix2Pix Paper**: [Isola et al., 2017](https://arxiv.org/abs/1611.07004)
-- **PyTorch** for deep learning framework.
+- Dataset from [StockCake](https://stockcake.com/)
 
 ## 📜 License
 This project is licensed under the MIT License.
