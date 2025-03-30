@@ -35,11 +35,6 @@ git clone https://github.com/abdullah-khaled0/Pix2Pix-Sketch-to-Image-Colorizati
 cd Pix2Pix-Sketch-to-Image-Colorization
 ```
 
-## 🚀 Training
-Run the following command to start training:
-```bash
-python train.py
-```
 ### Training Details
 - **Epochs:** 80
 - **Batch Size:** 8
